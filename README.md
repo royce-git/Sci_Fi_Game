@@ -1,2 +1,5 @@
 # Sci_Fi_Game
- A 3D environment I created with some simple interactions and effects
+
+![Sci_Fi_gif]
+
+ A 3D environment I created following a Udemy with some simple interactions and effects
